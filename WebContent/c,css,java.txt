@@ -1,0 +1,50 @@
+In our website learning management system we provides all type information of 
+various topics and variour books and courses also on our website
+ you can learn those topics by watching video tutorials
+ and you can also read book provided by us.
+
+
+
+
+ C is a programming language invented in the early 1970s by Dennis Ritchie as a language for writing operating systems.
+The purpose of C is to precisely define a series of operations that a computer 
+can perform to accomplish a task. Most of these operations involve manipulating numbers and text, 
+
+but anything that the computer can physically do can be programmed in c
+
+
+
+C++ is a general-purpose programming language. It has imperative, object-oriented and generic programming features,
+ while also providing facilities for low-level memory manipulation.
+It was designed with a bias toward system programming and embedded, resource-constrained and large systems,
+ with performance, efficiency and flexibility of use as its design highlights.
+ 
+
+
+Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications.
+ With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web. 
+Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages
+
+
+
+
+
+Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented, 
+and specifically designed to have as few implementation dependencies as possible.
+ It is intended to let application developers "write once, run anywhere" 
+ meaning that compiled Java code can run on all platforms that support Java without the need for recompilation
+
+
+
+
+
+Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language.
+ Although most often used to set the visual style of web pages and user interfaces written in HTML and XHTML, 
+the language can be applied to any XML document, including plain XML, SVG and XUL, and is applicable to rendering in speech, or on other media
+
+
+
+
+A book is a series of pages assembled for easy portability and reading, as well as the composition contained in it.
+ The book's most common modern form is that of a codex volume consisting of rectangular paper pages bound on one side, 
+with a heavier cover and spine, so that it can fan open for reading.

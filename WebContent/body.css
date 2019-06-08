@@ -1,0 +1,44 @@
+body
+{
+    background-image:url(students.jpg);
+    padding-bottom:180px;
+
+
+}
+.form
+{
+    border-top-width: 20px;
+    width: 40%;
+    height:650px;
+    text-align: left;
+    font-size: 25px;
+    font-kerning: auto;
+}
+.input
+{   
+    background-color:pink;
+    text-align:left;
+    text-decoration:inherit;
+    padding-left:10px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    text-transform:inherit;
+
+}
+.submit
+{
+    padding-left: 40%;
+
+}
+.form input[type="text"],
+.form input[type="password"],
+.form input[type="confirmpassword"],
+.form input[type="gmail"]
+{
+    border: none;
+    outline:inherit;
+    height: 20px;
+    width:60%;
+
+}
+

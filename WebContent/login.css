@@ -1,0 +1,105 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+body{
+	background-image: url(back.jpg);
+	background-size: 1500px;
+}
+.profilelogo{
+	width: 100%;
+}
+.profileLogo img{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 15px;
+	opacity: .8;
+	left: 30px;
+}
+.profileLogo img:hover{
+	width: 70px;
+	height: 70px;
+	position: absolute;
+	top: 15px;
+	opacity: 1;
+	left: 30px;
+}
+.logoPlaceholder{
+	background-color:yellow;
+	color: DodgerBlue;
+	text-align: center;
+	margin-top: 0;
+	padding: 0;
+	padding: 20px;
+	font-size: 50px;
+
+}
+.logoPlaceholder:hover{
+	color:orange;
+}
+#profilebox{
+	width: 290px;
+	height: 380px;
+	background-color:yellow;
+	border-radius: 9px;
+	position: relative;
+	top: 100px;
+	left: 800px;
+}
+.profilePhoto{
+	width: 100%;
+	height: 250px;
+	position: relative;
+	top: 0px;
+	left: 90px;
+	float: right;
+}
+#profilePhoto1{
+	width: 100px;
+	height: 100px;
+	padding-right: 30px;
+}
+.profileHeader{
+	color: black;
+	margin: -30px; 
+	padding-top: 20px;
+}
+.profilename{
+	color: black;
+	border: black;
+	border-bottom: 2px solid black;
+	background-color: DodgerBlue;
+	padding: 7px;
+}
+#loginbutton{
+	border: solid rgb(60,60,60);
+	background-color:pink;
+	color: black;
+	text-align: center;
+	border-radius: 140px;
+	padding: 5px;
+	width: 50%;
+	cursor: pointer;
+}
+#loginbutton:hover{
+	border: solid #48BEDB;
+	background-color: #48E2DB;
+	color: white;
+	text-align: center;
+	border-radius: 140px;
+	padding: 5px;
+	width: 50%;
+}
+.profileHeader1{
+	text-decoration: none;
+	color: black;
+}
+.profileHeader1:hover{
+	text-decoration: none;
+	color:blue;
+}
+.profilename::placeholder{
+	color:white;
+}
